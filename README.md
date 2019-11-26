@@ -1,4 +1,5 @@
 # Anime-Character-Recogniser<br/>
+This isn't perfect.... so don't expect it to be <br/>
 
 # Usage <br/>
 Two seperate files. <br/> 
