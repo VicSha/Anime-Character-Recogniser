@@ -1,4 +1,11 @@
 # Anime-Character-Recogniser<br/>
+
+# Usage <br/>
+Two seperate files. <br/> 
+Webcam requires you to allow access to webcam and then you can put a picture up in front of it or something like that <br/>
+File allows you to set the image src in the html file to a *locally stored* image. Trying to use a url will most likely run into issues <br/>
+
+
 Model trained using teachablemachine<br/>
 Current Characters trained:<br/>
 -Lelouch Lamperouge (35 Images)<br/>
