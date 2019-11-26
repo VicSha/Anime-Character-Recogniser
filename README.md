@@ -4,7 +4,7 @@ Current Characters trained:<br/>
 -Lelouch Lamperouge (35 Images)<br/>
 -Edward Elric (36 Images)<br/>
 -L Lawliet (32 Images)<br/>
--Naruto Uzumaki (Particulary tricky, since there is a young version, old version and then his special form, prob will split the special form away)(43 Images)<br/> 
+-Naruto Uzumaki (43 Images)<br/> 
 -Ken Kaneki (31 Images)<br/>
 -Taiga Aisaka (31 Images)<br/>
 -Megumin (33 Images)<br/>
