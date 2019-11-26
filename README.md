@@ -15,4 +15,4 @@ Epochs:500 (Higher than neccessary) <br/>
 Batch Size:32 <br/>
 Learning Rate: 0.001 <br/>
 
-If you'd like to help adding extra characters or adding more image samples to sets already there, feel free to do so
+If you'd like to help adding extra characters or adding more image samples to sets already there, feel free to do so using the issues tab and labeling your issue as "enhancement" or whatever it may be
