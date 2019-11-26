@@ -14,3 +14,5 @@ Current Characters trained:<br/>
 Epochs:500 (Higher than neccessary) <br/>
 Batch Size:32 <br/>
 Learning Rate: 0.001 <br/>
+
+If you'd like to help adding extra characters or adding more image samples to sets already there, feel free to do so
