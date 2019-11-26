@@ -6,7 +6,7 @@ Webcam requires you to allow access to webcam and then you can put a picture up 
 File allows you to set the image src in the html file to a *locally stored* image. Trying to use a url will most likely run into issues <br/>
 
 
-Model trained using teachablemachine<br/>
+# Model trained using teachablemachine<br/>
 Current Characters trained:<br/>
 -Lelouch Lamperouge (35 Images)<br/>
 -Edward Elric (36 Images)<br/>
